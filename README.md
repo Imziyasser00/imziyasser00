@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<a href=https://www.linkedin.com/in/yassir-imzi-7b02b4218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassir%20Imzi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yassir-imzi-7b02b4218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassir%20Imzi-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/yass_sir__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yass_sir__-black?style=flat-square&logo=instagram"></a>
 
