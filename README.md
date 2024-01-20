@@ -55,11 +55,11 @@
 
 <p align="center">
 
-<a href=https://www.linkedin.com/in/yassir-imzi-7b02b4218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href=https://www.linkedin.com/in/yassir-imzi-7b02b4218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassir%20Imzi-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/yass_sir__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yass_sir__-white?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/yass_sir__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yass_sir__-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:imziyasser00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:imziyasser00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imziyasser00@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
