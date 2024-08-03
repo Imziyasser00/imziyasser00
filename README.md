@@ -21,9 +21,9 @@
 
 
 
-- 💻 &nbsp;   Java | C++ | C | MySQL
+- 💻 &nbsp;   Java | C++ | C | MySQL | ExpressJs | NodeJs | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | PHP 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | PHP | NextJS | typescript
 
 <!--
 
@@ -39,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; MERN Stack | Type script 
+- 🔧 &nbsp; Jest
 
 <hr>
 
